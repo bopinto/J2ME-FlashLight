@@ -1,0 +1,7 @@
+MIDlet-Version: 0.0.1
+MIDlet-Vendor: _bL0p_
+MIDlet-Jar-URL: FlashLight.jar
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-1: Main,,flashlight.Main
+MicroEdition-Profile: MIDP-2.1
+MIDlet-Name: FlashLight
